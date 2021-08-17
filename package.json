@@ -1,0 +1,33 @@
+{
+  "name": "json-gen-schema",
+  "version": "0.0.1-beta",
+  "description": "Generate the json-gen-schema in any json-schema for mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxiaoxin/easy-json-schema.git"
+  },
+  "keywords": [
+    "json",
+    "to",
+    "schema",
+    "json",
+    "schema",
+    "mongodb",
+    "validation",
+    "bsontype",
+    "generator"
+  ],
+  "author": "jungwoo lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s1ckdark/json-gen-schema/issues"
+  },
+  "homepage": "https://github.com/s1ckdark/json-gen-schema#readme",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
